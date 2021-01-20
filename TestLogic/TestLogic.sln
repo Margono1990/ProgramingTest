@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestLogic", "TestLogic\TestLogic.vbproj", "{F437088A-CFD6-40CA-A58A-D02F6A01046A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7B174B8B-B606-4E6D-950B-61A73B165921}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F437088A-CFD6-40CA-A58A-D02F6A01046A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F437088A-CFD6-40CA-A58A-D02F6A01046A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F437088A-CFD6-40CA-A58A-D02F6A01046A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F437088A-CFD6-40CA-A58A-D02F6A01046A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C773F28-D2EF-4C76-AD8C-90C328473EBF}
+	EndGlobalSection
+EndGlobal

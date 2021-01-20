@@ -1,0 +1,12 @@
+E:\VS2017\TestLogic\TestLogic\TestLogic\bin\Debug\TestLogic.exe.config
+E:\VS2017\TestLogic\TestLogic\TestLogic\bin\Debug\TestLogic.exe
+E:\VS2017\TestLogic\TestLogic\TestLogic\bin\Debug\TestLogic.pdb
+E:\VS2017\TestLogic\TestLogic\TestLogic\bin\Debug\TestLogic.xml
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.vbprojAssemblyReference.cache
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.LoggicTest.resources
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.Resources.resources
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.vbproj.GenerateResource.cache
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.vbproj.CoreCompileInputs.cache
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.exe
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.xml
+E:\VS2017\TestLogic\TestLogic\TestLogic\obj\Debug\TestLogic.pdb
